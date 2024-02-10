@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.95089dee.css",
+    "main.js": "/static/js/main.22a6eaf1.js",
+    "static/js/592.3ebe6925.chunk.js": "/static/js/592.3ebe6925.chunk.js",
+    "static/media/LOGOMM.webp": "/static/media/LOGOMM.de463d5bcae0fa69976f.webp",
+    "index.html": "/index.html",
+    "main.95089dee.css.map": "/static/css/main.95089dee.css.map",
+    "main.22a6eaf1.js.map": "/static/js/main.22a6eaf1.js.map",
+    "592.3ebe6925.chunk.js.map": "/static/js/592.3ebe6925.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95089dee.css",
+    "static/js/main.22a6eaf1.js"
+  ]
+}
