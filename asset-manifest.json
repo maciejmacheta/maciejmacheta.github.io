@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.668497b3.css",
-    "main.js": "/static/js/main.cfa42fbe.js",
+    "main.js": "/static/js/main.01f23495.js",
     "static/js/592.3ebe6925.chunk.js": "/static/js/592.3ebe6925.chunk.js",
     "static/media/LOGOMM.webp": "/static/media/LOGOMM.de463d5bcae0fa69976f.webp",
     "index.html": "/index.html",
     "main.668497b3.css.map": "/static/css/main.668497b3.css.map",
-    "main.cfa42fbe.js.map": "/static/js/main.cfa42fbe.js.map",
+    "main.01f23495.js.map": "/static/js/main.01f23495.js.map",
     "592.3ebe6925.chunk.js.map": "/static/js/592.3ebe6925.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.668497b3.css",
-    "static/js/main.cfa42fbe.js"
+    "static/js/main.01f23495.js"
   ]
 }
