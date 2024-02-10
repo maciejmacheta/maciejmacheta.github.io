@@ -35,7 +35,7 @@ function Profile() {
       </div>
       {activeMenuItem === 'glitch' && (
         <iframe
-          height="300"
+          height="500"
           width="100%"
           className={styles.iframe}
           scrolling="no"
@@ -48,7 +48,7 @@ function Profile() {
       )}
 {activeMenuItem === 'F5Magic' && (
       <iframe
-        height="300"
+        height="500"
         width="100%"
         className={styles.iframe}
         data-default-tab="js,result"
