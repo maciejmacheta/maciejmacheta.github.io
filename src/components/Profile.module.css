@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Protest+Revolution&display=swap');
+
+.container {
+  height: 100%;
+    color: azure;
+    font-family: 'Protest Revolution', sans-serif;
+    background-color: #050C1A;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .header {
+    font-size: 3em;
+    margin-bottom: 10%;
+    text-shadow: 4px 4px 8px rgb(0, 0, 0); /* X-offset, Y-offset, blur radius, color */
+  }
+  
+  .subheader {
+    font-size: 1.5em;
+    margin-bottom: 20%;
+    text-shadow: 4px 4px 8px rgb(0, 0, 0); /* X-offset, Y-offset, blur radius, color */
+  }
+  
+  .iframe {
+    width: 100%;
+    max-width: 100%;
+  }
+  
+  /* Profile.module.css */
+
+.logoContainer {
+  position: relative;
+  text-align: center;
+  color: white; 
+  white-space: nowrap;
+  margin-bottom: 10%; /* Domyślny kolor tekstu */
+}
+
+.logo {
+  width: 30%; /* Dostosuj szerokość obrazu do potrzeb */
+  height: auto; /* Zachowaj proporcje obrazu */
+}
+
+.overlayText {
+  position: absolute;
+  top: 90%; /* Centrowanie tekstu w pionie */
+  left: 50%; /* Centrowanie tekstu w poziomie */
+  transform: translate(-50%, -50%); /* Precyzyjne centrowanie */
+  font-size: 24px; /* Dostosuj rozmiar tekstu */
+  /* Dodatkowe style dla tekstu, jeśli potrzebne */
+}
